@@ -1,3 +1,4 @@
+// Random a number in a given range 
 let a=+prompt("moi ban nhap vao so thu nhat")
 let b=+prompt("moi ban nhap vao so thu 2")
 let min, max;
